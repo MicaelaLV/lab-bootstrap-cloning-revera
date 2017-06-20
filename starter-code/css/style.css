@@ -1,0 +1,46 @@
+/* NAVBAR */
+.navbar-header {
+  height: 90px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 12px 140px;
+}
+.navbar-header a {
+  font-size: 30px;
+  color: black !important;
+  font-weight: 800;
+}
+.navbar-right {
+  text-align: center;
+  margin: 0 auto;
+  padding: 18px 40px;
+}
+div.navbar-right {
+  position: relative;
+  right: 250px;
+}
+
+/* CAROUSEL */
+.carousel {
+  bottom:20px;
+  height: 411px;
+}
+.carousel-inner img {
+  width: 100vw;
+  margin: 0 auto;
+}
+ .carousel-text {
+  position: relative;
+  bottom: 50px;
+  margin: 20px;
+}
+
+/* RED-SECTION */
+.red-section {
+  margin: 0 auto;
+  position: relative;
+  bottom: 20px;
+  height: 314px;
+  width: 100vw;
+  background-color: #ED564B;
+}
